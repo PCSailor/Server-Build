@@ -1,0 +1,27 @@
+{
+  "name": "node-express-building-server_taketwo",
+  "version": "1.0.0",
+  "description": "node-express-building-server_taketwo_via Lecture Videos",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PCSailor/Server-Build.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "Philip Curtis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PCSailor/Server-Build/issues"
+  },
+  "homepage": "https://github.com/PCSailor/Server-Build#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1"
+  }
+}
